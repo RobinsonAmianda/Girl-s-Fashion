@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+  json "scripts": { "build:css": "postcss tailwind.css -o app.css" }
+}
